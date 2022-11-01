@@ -1,9 +1,9 @@
 # Starter Web project
 
-  project for demo
+  project for demo purpose
 
 ## Introduction
-
+  Introduction for starter project
 ## Purpose
 
 ## Deployment
