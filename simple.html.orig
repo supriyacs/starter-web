@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <!--
 copyright 2022 git.training
+<<<<<<< HEAD
+gjhgjhgjh jhkjh adding changes before rebasing conflicts
 -->
 <head>
-<<<<<<< HEAD
-	<title>A great website in master</title>
+	<title>A jhjkhkj jhkjhkj jhkjhkj  great website in master</title>
 =======
-	<title>A great wesite</title>
->>>>>>> realwork
+adding changes before rebasing conflicts in biftruble branch
+-->
+<head>
+	<title>A great website in master bigtrouble</title>
+>>>>>>> bigtrouble
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -22,18 +26,20 @@ copyright 2022 git.training
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			Just some content in master for checking merge conflict
+			Just some contenthjghjg hghjg hgjhg 
+hjghjgjhg hjgjhg  in master for checking merge conflict
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; git 2022 master</p>
+		<p>&copy; jhgjjhjkhk  git 2022</p>
 =======
-			adding content for checking merge conflicy
+			Just some content bigtrouble in master for checking merge conflict
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; git 2022</p>
->>>>>>> realwork
+		<p>&copy; git bigtrouble  2022</p>
+>>>>>>> bigtrouble
 	</footer>
 </body>
 </html>
+
