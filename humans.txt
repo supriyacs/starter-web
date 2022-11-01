@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Supriya CS supr@gmail.com
 
 # THANKS
 
